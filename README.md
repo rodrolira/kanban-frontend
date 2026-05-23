@@ -1,4 +1,14 @@
+<div align="center">
 
+# Kanban Flow
+
+[![CI/CD](https://github.com/TU-USUARIO/kanban-frontend/actions/workflows/frontend-ci.yml/badge.svg)](https://github.com/TU-USUARIO/kanban-frontend/actions/workflows/frontend-ci.yml)
+[![Vite](https://img.shields.io/badge/Vite-5.x-646CFF)](https://vitejs.dev/)
+[![React](https://img.shields.io/badge/React-18.x-61DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)](https://www.typescriptlang.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+</div>
 #### Frontend README (`kanban-frontend/README.md`)
 
 ```markdown
